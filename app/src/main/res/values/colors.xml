@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#80817B</color>
+    <color name="colorPrimaryDark">#80817B</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="recyclerRowColor1">#9B9D92</color>
+    <color name="recyclerRowColor2">#8E9488</color>
+    <color name="profile_bg">#E9E1DB</color>
+</resources>

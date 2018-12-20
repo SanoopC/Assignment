@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="name_text_font_size">20sp</dimen>
+    <dimen name="font_size_18">18sp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="profile_pic_size">100dp</dimen>
+    <dimen name="toolbar_title_size">20sp</dimen>
+    <dimen name="font_size_22">22sp</dimen>
+    <dimen name="font_size_16">16sp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+</resources>
